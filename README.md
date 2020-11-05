@@ -1,51 +1,25 @@
+
 House Services: 
 
-Develop a system that can monitor children's actions in order to warn parents about possible troubles.
-Indoors: Temperature monitoring, heartbeat, location monitoring (indoors) in order to block windows, doors, electrical devices (socket) and also sensitive content that can be accessed by TV, tablet, cell phone ...
-Outside the home: GPS monitoring of the child's location, temperature and heartbeat.
+Waste management using an IOT system to improve the way to dispose and reuse waste.
 
 What ?
 
-Children Monitoring and Tracking is a real-time system that can check the child's status and location at any time and notify parents of any problems. Another important monitoring is at home, where you can protect your children from situations where they may be in danger.
-Windows and doors lock to prevent accidents
-Smart Plugs to turn off electrical products.
-Identify children's activity in order to block sensitive content (television, tablets and smartphones).
-Use GPS to monitor your children when they are away from home.
-Monitoring child health
+Waste management system would be responsible for controlling throughout the process, collection and decomposition of waste in the smart way so that benefit from the waste is maximized. Being able to focus on the process of segregating the garbage in two parts: Firstly, indoors made by people and secondly by society, for example in a condominium, a neighborhood, a city, etc.
+House level: 
+Intelligent garbage box, which separates biodegradable waste, recyclable waste, toxic waste, etc.
+ Use of sensors to check if there is any poisonous gas or poisonous residue and send a message.
+ Alert the person if any of the compartments become full.
+Society level: 
+Automatic garbage separation system (metal, plastic, organic, toxic, etc)
+After the separation, direct each type of garbage to the specific collection, in which it checks the quantity in each compartment and activates the collection system (city, neighborhood, etc.) to correctly direct it, for example: Metals for the recycling company, organic waste for the production of fertilizer, etc.
 
 
 Why?
-Annually in Brazil about 100,000 children suffer domestic accidents. In addition, there are also cases of kidnapping, theft and violence against children. With that, the creation of a monitoring and tracking system would help parents a lot to monitor their children, besides helping at home to control access to sensitive information on the internet, to control sensors that close doors and windows and turn off electronic products with the intention of preventing domestic accidents.
+Waste management is a daily task in urban areas, which requires a large amount of labour resources and affects natural, budgetary, efficiency, and social aspects. Thus, the Waste Management System could help a lot the use of the generated waste, improving the collection system and the recycling system for less impact on nature. In Brazil, 80 million tons of garbage are produced and only about 3% is recycled. 
 
-How?
-Use wearables (smartwatch GPS, heartbeat sensor, etc.) to monitor the location, heartbeat, etc. and use them when a problem occurs to send a message to the parents.
-Indoors, can use GPS to be able to identify where children are and block a window, block a door, turn off an electrical device, block sensitive content (TV, tablet, smartphone).
-Use cameras with motion sensors to identify what the children's actions are and in case of any sudden movement send a message with images to warn the parents what happened immediately.
-Window sensor
-Door sensor
-Smart Plugs
-Smartwatch
-Câmera
-TV
-Motion sensors
-
-
-
-How Much?
-
-
-What benefit to Samsung Brand ?
-
-It may include new features for wearables, creation of cloud monitoring tools (SmartThings), AI routines, including new capabilities for Samsung's IOT environment.
-
-Revenue?
-
-Including new features to the Samsung IOT ecosystem can be a differentiator in obtaining new Samsung products, such as Smartwatch, Smartphones, TVs, etc.
-
-Exposition?
-https://iopscience.iop.org/article/10.1088/1742-6596/1362/1/012012/pdf
-https://www.ijitee.org/wp-content/uploads/papers/v8i8/H6836068819.pdf
-https://www.sierrawireless.com/iot-blog/iot-technology-gives-parents-a-kid-friendly-tracking-and-communication-solution/
-https://ltu.diva-portal.org/smash/get/diva2:1299122/FULLTEXT01
-https://blog.jtiot.com/iot-enabled-tracking-enhances-children-safety
-
+https://www.sciencedirect.com/science/article/pii/S1877050920306876
+https://www.hindawi.com/journals/wcmc/2020/6138637/
+https://ieeexplore.ieee.org/abstract/document/7972276
+https://ieeexplore.ieee.org/abstract/document/8079623
+https://ieeexplore.ieee.org/abstract/document/8537326
