@@ -43,3 +43,9 @@ Revenue?
 Including new features to the Samsung IOT ecosystem can be a differentiator in obtaining new Samsung products, such as Smartwatch, Smartphones, TVs, etc.
 
 Exposition?
+https://iopscience.iop.org/article/10.1088/1742-6596/1362/1/012012/pdf
+https://www.ijitee.org/wp-content/uploads/papers/v8i8/H6836068819.pdf
+https://www.sierrawireless.com/iot-blog/iot-technology-gives-parents-a-kid-friendly-tracking-and-communication-solution/
+https://ltu.diva-portal.org/smash/get/diva2:1299122/FULLTEXT01
+https://blog.jtiot.com/iot-enabled-tracking-enhances-children-safety
+
